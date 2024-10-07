@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CP5_MOBILE</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="cidade">City</string>
+    <string name="enviar">Enviar</string>
+
 </resources>
